@@ -1,2 +1,2 @@
 # GameServerWith-Sockets
-Creating a Game Servevr with sockets and threads in pygame
+Creating a Game Server with sockets and threads in pygame
